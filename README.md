@@ -1,6 +1,6 @@
-### Olá! Meu nome é Álvaro Jordão, mas todos me chamam de Alvinho!
+### Hello! I am Álvaro Jordão, nice to meet you!
 
-- Estudo na Universidade Católica de Pernambuco, estou no 3º período de Ciência da Computação.
+- I am a Computer Science student from UNICAP
 
 ##
 
