@@ -1,6 +1,6 @@
 ### Olá! Meu nome é Álvaro Jordão, mas todos me chamam de Alvinho!
 
-- Estudo na Universidade Católica de Pernambuco, estou no 2º período de Ciência da Computação.
+- Estudo na Universidade Católica de Pernambuco, estou no 3º período de Ciência da Computação.
 
 ##
 
