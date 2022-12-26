@@ -17,9 +17,7 @@
 <a href="mailto:dev.alvarojordao@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="(81) 98870-7458" /></a>
 </p></br>
 
-
-
-##
+#
 
 <div align = "center">
   <a href="https://github.com/alvccpj">
@@ -27,7 +25,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvccpj&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
-  </br>
+
   
   <h3 align="center"style="font-size:23px">👨‍🎓 Currently Studying:</h3>
 
