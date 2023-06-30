@@ -1,13 +1,13 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=d3d3d3&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7B68EE&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Álvaro+Jordão;I'm+19+years+old;I'm+from+Brazil;I'm+Graduating+in+Computer+Science;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=d3d3d3&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Álvaro+Jordão;I'm+19+years+old;I'm+from+Brazil;I'm+Graduating+in+Computer+Science;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 #
 </br>
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=alvccpj&show_icons=true&count_private=true&hide_border=true&title_color=7B68EE&icon_color=7B68EE&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvccpj&layout=compact&hide_border=true&title_color=7B68EE&text_color=7B68EE&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=alvccpj&show_icons=true&count_private=true&hide_border=true&title_color=d3d3d3&icon_color=646464&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvccpj&layout=compact&hide_border=true&title_color=acacac&text_color=acacac&bg_color=0d1117" />
 </div>
   
 #
@@ -36,7 +36,7 @@
 <br>
 </div>
 
-<a href="https://www.linkedin.com/in/devalvarojordao/" target="blank"><img align="right" src="https://user-images.githubusercontent.com/103002592/209400885-897601dd-b48c-4200-83c3-a76ac7f3bed1.png" alt="BANNER"/></a>
+![Beige   Black Geometric Technology LinkedIn Banner](https://github.com/alvccpj/alvccpj/assets/103002592/af455177-f5ba-4a38-b288-f1b3b57e6e54)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=d3d3d3&height=120&section=footer"/>
 
