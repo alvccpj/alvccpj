@@ -46,6 +46,6 @@ chat <img width=100% src="https://capsule-render.vercel.app/api?type=waving&colo
   <br>
   </div>
 
-  ![Beige   Black Geometric Technology LinkedIn Banner](https://github.com/alvccpj/alvccpj/assets/103002592/af455177-f5ba-4a38-b288-f1b3b57e6e54)
+  ![Navy Geometric Technology LinkedIn Banner](https://github.com/user-attachments/assets/e442a5c7-e22b-4e4d-9380-d9231855029b)
 
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=d3d3d3&height=120&section=footer"/>
