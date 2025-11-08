@@ -39,6 +39,6 @@ chat <img width=100% src="https://capsule-render.vercel.app/api?type=waving&colo
     <a href="mailto:dev.alvarojordao@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="(81) 98870-7458" /></a>
   </p></br>
 
-  ![Navy Geometric Technology LinkedIn Banner](https://github.com/user-attachments/assets/e442a5c7-e22b-4e4d-9380-d9231855029b)
+  <img width="2000" height="600" alt="Image" src="https://github.com/user-attachments/assets/f6325914-a982-4c0b-86e7-0a68c3b61f46" />
 
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=d3d3d3&height=120&section=footer"/>
