@@ -36,7 +36,6 @@ chat <img width=100% src="https://capsule-render.vercel.app/api?type=waving&colo
   <p align="center">
     <a href="https://www.linkedin.com/in/devalvarojordao/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
     <a href="https://www.instagram.com/notalvinho/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="vini.venturaa"/></a>
-    <a href="https://api.whatsapp.com/send?phone=5581994477935&text=Ol%C3%A1%20Álvaro!%20Cheguei%20aqui%20atrav%C3%A9s%20do%20seu%20GitHub." target="blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="(81) 98870-7458" /></a>
     <a href="mailto:dev.alvarojordao@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="(81) 98870-7458" /></a>
   </p></br>
 
