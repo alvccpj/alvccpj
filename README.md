@@ -14,9 +14,10 @@ chat <img width=100% src="https://capsule-render.vercel.app/api?type=waving&colo
   <h3 align="center"style="font-size:23px">👨‍🎓 Hard Skills:</h3>
   <div align="center" style="display: inline_block">
     <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+    <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white" />
     <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img align="center" alt="springboot" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-    <img align="center" alt="salesforce" src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
+    <img align="center" alt="salesforce" src="https://img.shields.io/static/v1?style=for-the-badge&message=Salesforce&color=00A1E0&logo=Salesforce&logoColor=white&label=" />
     <img align="center" alt="apex" src="https://img.shields.io/badge/Apex-1769A6?style=for-the-badge&logo=salesforce&logoColor=white" />
   </div><br/>
   
@@ -24,8 +25,9 @@ chat <img width=100% src="https://capsule-render.vercel.app/api?type=waving&colo
 
 <div align="center" style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img align="center" alt="css" src="https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=1572B6&logo=css3&logoColor=white&label=" />
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img align="center" alt="react" src="https://img.shields.io/badge/React-%2320232A.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
   <img align="center" alt="nextjs" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
 </div><br/>
 
@@ -33,9 +35,9 @@ chat <img width=100% src="https://capsule-render.vercel.app/api?type=waving&colo
   <h3 align="center" style="font-size:23px">Get in touch:</h3>
 
   <p align="center">
-    <a href="https://www.linkedin.com/in/devalvarojordao/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-    <a href="https://www.instagram.com/notalvinho/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="vini.venturaa"/></a>
-    <a href="mailto:dev.alvarojordao@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="(81) 98870-7458" /></a>
+    <a href="https://www.linkedin.com/in/devalvarojordao/" target="blank"><img align="center" src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0077B5&logo=linkedin&logoColor=white&label="/></a>
+    <a href="https://www.instagram.com/notalvinho/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="notalvinho"/></a>
+    <a href="mailto:dev.alvarojordao@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="(81) 99447-7935" /></a>
   </p></br>
 
   <img width="2000" height="600" alt="Image" src="https://github.com/user-attachments/assets/f6325914-a982-4c0b-86e7-0a68c3b61f46" />
